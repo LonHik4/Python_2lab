@@ -275,8 +275,8 @@ def save_in_json(data: List[Information], filename: str):
 
 if len(sys.argv) != 1:
     parser = argparse.ArgumentParser("Input & output parser")
-    parser.add_argument("-input",type=str,default="26.txt",help="Input path")
-    parser.add_argument("-output",type=str,default="output.txt",help="Output path")
+    parser.add_argument("-input",type=str,default="4.txt",help="Input path")
+    parser.add_argument("-output",type=str,default="result.txt",help="Output path")
     args = parser.parse_args()
 
     input_file = args.input_file[0]
