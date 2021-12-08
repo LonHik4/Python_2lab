@@ -1,0 +1,10 @@
+Ошибок в файле  8477
+telephone	1000
+height	699
+snils	985
+passport_series	974
+university	965
+age	962
+academic_degree	949
+worldview	925
+address	1018
